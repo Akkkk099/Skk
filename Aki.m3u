@@ -8,3 +8,12 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100321/uhd_akamai_atv_bkp_avc_h
 http://prod-sports-north-gm.jiocinema.com/hls/live/2109767/uhd_akamai_atv_avc_mar_ipl_s1_m1080424/master.m3u8
 #EXTINF:-1 tvg-name="IPL FHD Ad Free"   tvg-logo="https://raw.githubusercontent.com/Akkkk099/Skk/main/ipl-2024-team-list-how-to-watch-indian-premier-league-in-canada.jpg",  IPL 360P
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1080424/master_360p.m3u8
+#EXTINF:-1 tvg-name="IPL FHD Ad Free"   tvg-logo="https://raw.githubusercontent.com/Akkkk099/Skk/main/ipl-2024-team-list-how-to-watch-indian-premier-league-in-canada.jpg",  IPL Hero Cam
+https://prod-sports-multiangle-cf.jiocinema.com/hls/live/2109674/hd_akamai_androidmob_avc_cam04_ipl_s1_m1080424/master.m3u8
+#EXTINF:-1 tvg-name="IPL FHD Ad Free"   tvg-logo="https://raw.githubusercontent.com/Akkkk099/Skk/main/ipl-2024-team-list-how-to-watch-indian-premier-league-in-canada.jpg",  IPL Stump Cam
+https://prod-sports-multiangle-cf.jiocinema.com/hls/live/2109673/hd_akamai_androidmob_avc_cam02_ipl_s1_m1290324/master.m3u8
+#EXTINF:-1 tvg-name="IPL FHD Ad Free"   tvg-logo="https://raw.githubusercontent.com/Akkkk099/Skk/main/ipl-2024-team-list-how-to-watch-indian-premier-league-in-canada.jpg",  IPL Hero Cam
+https://prod-sports-multiangle-cf.jiocinema.com/hls/live/2109673/hd_akamai_androidmob_avc_cam01_ipl_s1_m1290324/master.m3u8
+#EXTINF:-1 tvg-name="IPL FHD Ad Free"   tvg-logo="https://raw.githubusercontent.com/Akkkk099/Skk/main/ipl-2024-team-list-how-to-watch-indian-premier-league-in-canada.jpg",  IPL Multi Cam
+https://prod-sports-multiangle-cf.jiocinema.com/hls/live/2109673/hd_akamai_androidmob_avc_cam05_ipl_s1_m1290324/master.m3u8
+#EXTINF:-1 tvg-name="IPL FHD Ad Free"   tvg-logo="https://raw.githubusercontent.com/Akkkk099/Skk/main/ipl-2024-team-list-how-to-watch-indian-premier-league-in-canada.jpg",  IPL 360P
